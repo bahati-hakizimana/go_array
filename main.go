@@ -15,5 +15,6 @@ func main() {
 
 
 	fmt.Println("Fruit list is:", fruitList)
+	fmt.Println("Fruit list length is:", len(fruitList))
 
 }
